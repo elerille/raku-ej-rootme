@@ -1,0 +1,24 @@
+{
+  "name": "Ej::RootMe",
+  "description": "API for access to root-me API",
+  "version": "0.1",
+  "perl": "6.*",
+  "authors": [
+    "Élerille"
+  ],
+  "auth": "github:elerille",
+  "depends": [
+    "Cro::HTTP",
+    "URL"
+  ],
+  "build-depends": [],
+  "test-depends": [
+    "Test::META"
+  ],
+  "provides": {
+    "Ej::RootMe": "lib/Ej/RootMe.pm6"
+  },
+  "resources": [],
+  "license": "GPL-3.0-or-later",
+  "source-url": "https://github.com/elerille/raku-ej-rootme.git"
+}
