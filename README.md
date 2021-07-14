@@ -1,5 +1,5 @@
 # Ej::RootMe
-Raku module for access to API of api.www.root-me.org.
+Raku module for access to API of [api.www.root-me.org](https://api.www.root-me.org/).
 
 # Examples
 
